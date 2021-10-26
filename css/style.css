@@ -1,0 +1,10 @@
+.hidden {
+    display:  none;
+}
+
+#clock{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-image: none;
+}
