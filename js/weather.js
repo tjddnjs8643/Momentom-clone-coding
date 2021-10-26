@@ -1,3 +1,4 @@
+
 const API_KEY = "90218b868cf21c70642c9fbfd6a61f41";
 
 
@@ -20,3 +21,4 @@ function onGeoError(){
 }
 
 navigator.geolocation.getCurrentPosition(onGeoOk,onGeoError);
+
