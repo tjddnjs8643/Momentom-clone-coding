@@ -1,6 +1,6 @@
 # Momentom-clone-coding
 
-Chrome Extention Momentum 클론코딩
+Momentum 클론코딩
 
 https://nomadcoders.co/javascript-for-beginners/lobby
 
